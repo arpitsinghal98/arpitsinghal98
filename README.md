@@ -1,132 +1,66 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpitsinghal98/assets/main/banner.png" alt="Arpit Singhal - Software Engineer Banner" width="100%" />
-</p>
+# Arpit Singhal
 
-<h1 align="center">Hello, I'm Arpit Singhal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /></h1>
-<p align="center">
-  <b>Software Engineer | Full Stack Developer | Cloud Enthusiast</b>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/arpitsinghal98">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arpitsinghal98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=arpitsinghal98&color=blue" alt="Profile views" />
-</p>
+### Backend & AI Product Engineer
+
+I build the systems behind AI products: connecting context, making backend workflows reliable, and taking features from idea to production.
+
+[Portfolio ↗](https://arpitsinghal.dev) · [LinkedIn ↗](https://www.linkedin.com/in/arpitsinghal98/)
 
 ---
 
-## 🚀 About Me
+## What I bring
 
-- 🧑‍💻 **Passionate about building production-ready applications that solve real-world problems.**
-- 🌏 **Tech polyglot:** From backend to frontend, databases to cloud, I enjoy the whole journey.
-- 🚀 **Always learning:** Love discovering new tools, frameworks, and best practices.
+- **AI product engineering.** Founding-engineer experience at TwinMind, working on context-rich chat, voice processing, subscriptions and product instrumentation.
+- **Backend ownership.** APIs, data integrations, request controls and cloud infrastructure that support the product experience.
+- **End-to-end delivery.** Comfortable moving between backend systems and the interfaces people use.
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_
+## Selected work
 
----
+### MailIQ
+**AI-assisted inbox organization and unsubscribe automation.**
 
-## 🛠️ Tech Toolbox
+A full-stack application with multi-account Gmail OAuth, custom email categories and AI-assisted classification. Its unsubscribe workflow combines browser automation, model-assisted form handling and heuristic fallbacks.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,js,java,cs,django,fastapi,flask,express,react,redux,nextjs,remix,tailwind,materialui,aws,azure,gcp,docker,kubernetes,serverless,postgres,mongodb,mysql,firebase,redis,githubactions,jenkins,terraform,salesforce,hubspot,rabbitmq,kafka,graphql,rest,webpack,git,linux" />
-</p>
+`TypeScript` · `Remix` · `React` · `PostgreSQL` · `Drizzle` · `Playwright`
 
-<details>
-  <summary><b>Click to see my full tech stack!</b></summary>
+[Explore the code →](https://github.com/arpitsinghal98/MailIQ)
 
-- **Languages:** Python, TypeScript, JavaScript (Node.js), Java, C#
-- **Frontend:** React, RemixJS, Redux, Next.js, Tailwind CSS, Material-UI
-- **Backend:** Node.js, Express, Django, FastAPI, Flask
-- **Cloud:** AWS (EC2, Lambda, S3, DynamoDB), Azure (Functions, App Service), GCP (Cloud Functions, Firestore), Docker, Kubernetes, Serverless
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, Firebase
-- **DevOps:** GitHub Actions, Jenkins, Terraform, CI/CD, Docker Compose
-- **CRM/ERP:** Salesforce, SAP, HubSpot
-- **Messaging:** RabbitMQ, Kafka, Pub/Sub
-- **Testing:** Jest, PyTest, Cypress, Selenium
-- **Others:** GraphQL, REST APIs, WebSockets, OAuth2, JWT, Swagger/OpenAPI
+### Whispr
+**An AI meeting companion.**
 
-</details>
+A collaborative hackathon prototype exploring how AI can turn meeting context into useful assistance. Built with Karan Savaliya and Pushkar Patil.
 
----
+The source is not publicly linked. See my portfolio for more about my work.
 
-## 🏆 Featured Projects
+### FanFave
+**Sports-event discovery with AI recommendations.**
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/arpitsinghal98/mailiq">
-        <img src="https://raw.githubusercontent.com/arpitsinghal98/assets/main/mailiq.png" width="100" alt="MailIQ"/>
-        <br><b>MailIQ</b>
-      </a>
-      <br>
-      <sub>Smart email solutions for productivity ninjas 📧⚡</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/arpitsinghal98/whispr">
-        <img src="https://raw.githubusercontent.com/arpitsinghal98/assets/main/whispr.png" width="100" alt="Whispr"/>
-        <br><b>Whispr</b>
-      </a>
-      <br>
-      <sub>Next-gen communication platform 🔊🤫</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/arpitsinghal98/hirescope">
-        <img src="https://raw.githubusercontent.com/arpitsinghal98/assets/main/hirescope.png" width="100" alt="HireScope"/>
-        <br><b>HireScope</b>
-      </a>
-      <br>
-      <sub>Modern recruitment tools for talent search 🤝🔍</sub>
-    </td>
-  </tr>
-</table>
+A team project combining event search, event management and an LLM tool-calling workflow that uses interests and search history to recommend events.
+
+`React` · `Express` · `Elasticsearch` · `OpenAI`
+
+An earlier project from 2024. Included here as part of my progression into AI product engineering.
+
+<!-- Add a FanFave repository link only after exposed credentials have been revoked and removed from the repository and its history. -->
+
+## Tools I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| Languages | TypeScript, Python, JavaScript |
+| Backend & data | Node.js, PostgreSQL, Elasticsearch, Redis |
+| Product & interfaces | React, Next.js, Remix |
+| Infrastructure | AWS, Docker |
+| AI workflows | Model APIs, tool calling, browser automation |
+
+## Beyond the repository
+
+My work spans AI products, cloud migrations and enterprise integrations, with experience at TwinMind, Radical Squares, ONEBIT, VMware and AbbVie.
+
+I studied computer science at Illinois Institute of Technology, after a B.Tech in Electronics and Communications Engineering at JECRC.
 
 ---
 
-## 🎯 My Work Philosophy
+### Building something that needs strong backend and AI product ownership?
 
-- **User-centric:** Always design with end-users in mind.
-- **Automation-first:** If it can be automated, it should be!
-- **Open-source spirit:** Love contributing and sharing knowledge with the community.
-
----
-
-## ✨ Fun Facts
-
-- 🦆 I once debugged a production bug with nothing but a rubber duck and a cup of coffee. The duck was more helpful than expected!
-- ⏰ I can code for hours but still forget to water my plants.
-- 🧩 I enjoy solving puzzles, both in code and in life.
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arpitsinghal98">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:arpitsinghal98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://arpitsinghal.me">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitsinghal98&show_icons=true&theme=radical" alt="GitHub Stats"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsinghal98&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <b>Let's build something amazing together! 🚀</b>
-</p>
+[See my work](https://arpitsinghal.dev) or [connect on LinkedIn](https://www.linkedin.com/in/arpitsinghal98/).
